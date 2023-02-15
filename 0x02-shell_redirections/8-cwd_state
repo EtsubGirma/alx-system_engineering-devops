@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hidden in longlist" > ls_cwd_content   
+ls -la > ls_cwd_content
